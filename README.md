@@ -1,4 +1,5 @@
 # Guia de Estudos — Certificação DP-700 (Microsoft Fabric Data Engineer)
+<img width="898" height="520" alt="WhatsApp Image 2026-06-25 at 11 06 36" src="https://github.com/user-attachments/assets/867d7844-65f7-4776-ba31-6efb2bbae887" />
 
 > Material baseado na live "Data Days" sobre como estudar e passar na certificação **DP-700**.
 > Apresentador: Sidney Cirqueira — Cloud Solution Architect na Microsoft, Fabric Day Insider (Top Contributor FY26).
